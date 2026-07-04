@@ -42,7 +42,7 @@
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,core java,materialui" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,materialui" />
 </p>
 
 ### Backend
@@ -84,17 +84,7 @@
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NehaShirode40&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaShirode40&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -106,15 +96,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NehaShirode40&theme=tokyonight&margin-w=10&row=2&column=4"/>
-
-</p>
-
----
 
 ## 📈 Contribution Graph
 
