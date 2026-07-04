@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Engineer | React.js | Django | Python | IoT Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+%7C+Django+%7C+Python;IoT+Developer+%7C+%7C+MQTT;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+%7C+Django+%7C+Python;IoT+Web Developer+%7C+%7C+MQTT;Always+Learning+New+Technologies" />
 </p>
 
 ---
